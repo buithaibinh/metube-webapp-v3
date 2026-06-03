@@ -43,7 +43,7 @@ function buildOrganizationJsonLd(siteUrl: string): JsonLdGraph {
     '@type': 'Organization',
     name: SITE_NAME,
     url: siteUrl,
-    logo: `${siteUrl}/favicon.ico`,
+    logo: `${siteUrl}/apple-touch-icon.png`,
   }
 }
 
