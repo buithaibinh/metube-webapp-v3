@@ -1,0 +1,265 @@
+{
+  "welcome": "欢迎",
+  "index": {
+    "title": "metube.one - YouTube和社交视频下载器",
+    "subtitle": "YouTube和社交视频下载器。从YouTube、TikTok、Facebook、Instagram、Twitter等下载视频！",
+    "copyright_warning": "我们不允许/支持下载受版权保护的内容！",
+    "input_placeholder": "粘贴YouTube、TikTok、Facebook等链接",
+    "input_button": "获取视频",
+    "guide_title": "指南：",
+    "guide_desc": "将视频链接粘贴到上方，选择格式并点击获取视频进行下载。支持MP4、MP3、多平台。",
+    "desc_title": "metube.one - YouTube和社交视频下载器",
+    "desc": "metube.one是一个免费下载YouTube、TikTok、Facebook、Instagram、Twitter等平台视频的工具。将视频链接粘贴到上方，选择格式并点击获取视频即可快速轻松下载。metube.one不在服务器上存储任何内容，仅支持下载公开视频。",
+    "formats": {
+      "mp4_1080p": "MP4 - 1080p - 56.3MB",
+      "mp4_720p": "MP4 - 720p - 38MB",
+      "mp3_128": "MP3 - 128kbps - 5MB"
+    },
+    "video_info": {
+      "platform": "YouTube",
+      "duration": "3:22",
+      "title": "PUBG Theme Song (ZScratch Trap Remix)"
+    }
+  },
+  "features": {
+    "subtitle": "主要功能",
+    "title": "为什么选择metube.one?",
+    "description": "metube.one提供强大的功能，可以从多个平台下载视频。",
+    "mp4": {
+      "title": "高质量MP4下载",
+      "description": "下载高达1080p的MP4视频，确保最佳观看体验。"
+    },
+    "tiktok": {
+      "title": "TikTok支持",
+      "description": "下载无logo、无水印的高质量TikTok视频。"
+    },
+    "free": {
+      "title": "完全免费",
+      "description": "免费使用所有功能，无下载限制。"
+    },
+    "platforms": {
+      "title": "多平台支持",
+      "description": "支持各种平台：YouTube、TikTok、Facebook、Instagram、Twitter等。"
+    },
+    "fast": {
+      "title": "快速下载",
+      "description": "下载速度快，无需长时间等待。"
+    },
+    "no-reg": {
+      "title": "无需注册",
+      "description": "无需注册账号或安装软件即可立即使用。"
+    },
+    "learn_more": "了解更多"
+  },
+  "how_to_use": {
+    "subtitle": "使用指南",
+    "title": "如何使用metube.one",
+    "description": "只需3个简单步骤即可从任何平台下载视频。",
+    "step1": {
+      "title": "粘贴链接",
+      "description": "复制并粘贴您想要下载的视频链接到输入框。"
+    },
+    "step2": {
+      "title": "选择格式",
+      "description": "选择适合您需求的视频格式和质量。"
+    },
+    "step3": {
+      "title": "下载",
+      "description": "点击下载按钮并等待过程完成。"
+    },
+    "go_to_downloader": "前往下载器"
+  },
+  "faq": {
+    "subtitle": "常见问题",
+    "title": "有问题？",
+    "description": "查找关于metube.one的常见问题答案。",
+    "questions": {
+      "0": {
+        "question": "metube.one是免费的吗？",
+        "answer": "是的，metube.one完全免费且无下载限制。"
+      },
+      "1": {
+        "question": "我可以从哪些平台下载？",
+        "answer": "metube.one支持YouTube、TikTok、Facebook、Instagram、Twitter等流行平台。",
+        "answer_intro": "metube.one 支持以下热门平台："
+      },
+      "2": {
+        "question": "有质量限制吗？",
+        "answer": "没有，您可以根据源视频下载高达1080p的视频。"
+      },
+      "3": {
+        "question": "我需要注册账号吗？",
+        "answer": "不需要，您无需注册账号即可立即使用metube.one。"
+      },
+      "4": {
+        "question": "我可以下载有版权的视频吗？",
+        "answer": "不可以，metube.one不允许下载受版权保护的内容。我们只支持下载公开视频。"
+      }
+    }
+  },
+  "loading": "加载中...",
+  "download": "下载",
+  "add_another_format": "添加其他格式",
+  "error": {
+    "empty_url": "请输入URL。",
+    "invalid_url": "无效的URL。请输入正确的格式。",
+    "invalid_platform_url": "This URL does not match the current platform.",
+    "fetch_failed": "Could not fetch video info. Check the URL and try again.",
+    "page_not_found": "Page not found",
+    "back_home": "Back to home"
+  },
+  "menu": {
+    "youtube": "YouTube",
+    "tiktok": "TikTok",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter",
+    "more": "更多..."
+  },
+  "youtube": {
+    "input_placeholder": "Paste YouTube or youtu.be link here",
+    "subtitle": "YouTube视频下载器 – 高质量、快速、免费地下载YouTube视频！",
+    "copyright_warning": "我们不允许/支持下载受版权保护的视频！",
+    "guide": "将YouTube视频链接粘贴到上方，选择格式并点击获取视频进行下载。支持MP4、MP3、1080p、720p等多种质量...",
+    "desc_title": "使用metube.one免费下载YouTube视频",
+    "desc": "metube.one帮助您快速下载YouTube视频，无需安装软件。支持所有设备，无限下载，完全免费。仅支持公开视频，不存储服务器内容。",
+    "formats": {
+      "mp4-1080p": "MP4 - 1080p - 56.3MB",
+      "mp4-720p": "MP4 - 720p - 38MB",
+      "mp3-128": "MP3 - 128kbps - 5MB"
+    },
+    "video_info": {
+      "platform": "YouTube",
+      "duration": "3:22",
+      "title": "PUBG Theme Song (ZScratch Trap Remix)"
+    }
+  },
+  "tiktok": {
+    "input_placeholder": "Paste TikTok video link here",
+    "subtitle": "TikTok视频下载器 – 无水印、高质量、免费地下载TikTok视频！",
+    "copyright_warning": "我们不允许/支持下载受版权保护的视频！",
+    "guide": "将TikTok视频链接粘贴到上方，选择格式并点击获取视频进行下载。支持MP4、无水印、高清质量...",
+    "desc_title": "使用metube.one免费下载TikTok视频",
+    "desc": "metube.one帮助您快速下载无水印的TikTok视频，无需安装软件。支持所有设备，无限下载，完全免费。仅支持公开视频，不存储服务器内容。",
+    "formats": {
+      "mp4-hd": "MP4 - HD - 20MB",
+      "mp4-sd": "MP4 - SD - 7MB"
+    },
+    "video_info": {
+      "platform": "TikTok",
+      "duration": "0:59",
+      "title": "TikTok示例视频"
+    }
+  },
+  "twitter": {
+    "input_placeholder": "Paste Twitter / X video link here",
+    "subtitle": "Twitter视频下载器 – 高质量、快速、免费地下载Twitter视频！",
+    "copyright_warning": "我们不允许/支持下载受版权保护的视频！",
+    "guide": "将Twitter视频链接粘贴到上方，选择格式并点击获取视频进行下载。支持MP4、高清质量...",
+    "desc_title": "使用metube.one免费下载Twitter视频",
+    "desc": "metube.one帮助您快速下载Twitter视频，无需安装软件。支持所有设备，无限下载，完全免费。仅支持公开视频，不存储服务器内容。",
+    "formats": {
+      "mp4-hd": "MP4 - HD - 25MB",
+      "mp4-sd": "MP4 - SD - 8MB"
+    },
+    "video_info": {
+      "platform": "Twitter",
+      "duration": "0:45",
+      "title": "Twitter示例视频"
+    }
+  },
+  "facebook": {
+    "input_placeholder": "Paste Facebook video link here",
+    "subtitle": "Facebook视频下载器 – 高质量、快速、免费地下载Facebook视频！",
+    "copyright_warning": "我们不允许/支持下载受版权保护的视频！",
+    "guide": "将Facebook视频链接粘贴到上方，选择格式并点击获取视频进行下载。支持MP4、高清、标清质量...",
+    "desc_title": "使用metube.one免费下载Facebook视频",
+    "desc": "metube.one帮助您快速下载Facebook视频，无需安装软件。支持所有设备，无限下载，完全免费。仅支持公开视频，不存储服务器内容。",
+    "formats": {
+      "mp4-hd": "MP4 - HD - 40MB",
+      "mp4-sd": "MP4 - SD - 15MB"
+    },
+    "video_info": {
+      "platform": "Facebook",
+      "duration": "2:10",
+      "title": "Facebook示例视频"
+    }
+  },
+  "guide": "Guide:",
+  "downloads": {
+    "title": "Your downloads",
+    "clear_all": "Clear all",
+    "clear_confirm": "Clear all downloads and reset session?",
+    "remove": "Remove",
+    "failed": "Download failed",
+    "quick": "Quick download (direct link)",
+    "server_title": "Server download — convert & store",
+    "server_button": "Queue download",
+    "queue_failed": "Could not queue download. Is the API running?",
+    "load_more": "加载更多"
+  },
+  "instagram": {
+    "input_placeholder": "Paste Instagram video link here",
+    "subtitle": "Instagram Video Downloader – Download high quality, fast, free Instagram videos!",
+    "copyright_warning": "WE DO NOT SUPPORT DOWNLOADING COPYRIGHTED VIDEOS!",
+    "guide": "Paste the Instagram video link above, select the format and click Get Video to download. Supports MP4, HD, SD quality...",
+    "desc_title": "Download Instagram videos for free with metube.one",
+    "desc": "metube.one helps you download Instagram videos quickly, no software installation required. Supports all devices, unlimited downloads, completely free. Only public videos, no server storage.",
+    "formats": {
+      "mp4-hd": "MP4 - HD - 35MB",
+      "mp4-sd": "MP4 - SD - 12MB"
+    },
+    "video_info": {
+      "platform": "Instagram",
+      "duration": "1:30",
+      "title": "Instagram Sample Video"
+    }
+  },
+  "meta": {
+    "site": {
+      "title": "metube.one - YouTube和社交视频下载器",
+      "description": "metube.one是一个免费下载YouTube、TikTok、Facebook、Instagram、Twitter等平台视频的工具。将视频链接粘贴到上方，选择格式并点击获取视频即可快速轻松下载。metube.one不在服务器上存储任何内容，仅支持下载公开视频。"
+    },
+    "youtube": {
+      "title": "使用metube.one免费下载YouTube视频",
+      "description": "metube.one帮助您快速下载YouTube视频，无需安装软件。支持所有设备，无限下载，完全免费。仅支持公开视频，不存储服务器内容。"
+    },
+    "tiktok": {
+      "title": "使用metube.one免费下载TikTok视频",
+      "description": "metube.one帮助您快速下载无水印的TikTok视频，无需安装软件。支持所有设备，无限下载，完全免费。仅支持公开视频，不存储服务器内容。"
+    },
+    "facebook": {
+      "title": "使用metube.one免费下载Facebook视频",
+      "description": "metube.one帮助您快速下载Facebook视频，无需安装软件。支持所有设备，无限下载，完全免费。仅支持公开视频，不存储服务器内容。"
+    },
+    "instagram": {
+      "title": "Download Instagram videos for free with metube.one",
+      "description": "metube.one helps you download Instagram videos quickly, no software installation required. Supports all devices, unlimited downloads, completely free. Only public videos, no server storage."
+    },
+    "twitter": {
+      "title": "使用metube.one免费下载Twitter视频",
+      "description": "metube.one帮助您快速下载Twitter视频，无需安装软件。支持所有设备，无限下载，完全免费。仅支持公开视频，不存储服务器内容。"
+    }
+  },
+  "resources": {
+    "title": "Supported platforms",
+    "subtitle": "Click a platform to open its dedicated downloader page."
+  },
+  "legal": {
+    "terms": "Terms of Service",
+    "policy": "Privacy Policy",
+    "terms_short": "条款",
+    "policy_short": "隐私",
+    "and": "and",
+    "disclaimer": "By using our service you accept our"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "contact": "Contact"
+  },
+  "formats": {
+    "tab_video": "Video",
+    "tab_video_only": "Video only",
+    "tab_audio_only": "Audio only"
+  }
+}

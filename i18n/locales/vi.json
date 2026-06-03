@@ -1,0 +1,266 @@
+{
+  "welcome": "Chào mừng đến với MeTube",
+  "features": {
+    "title": "Tại sao chọn metube.one?",
+    "subtitle": "Tính năng nổi bật",
+    "description": "metube.one cung cấp các tính năng mạnh mẽ để tải video từ nhiều nền tảng khác nhau.",
+    "mp4": {
+      "title": "Tải MP4 chất lượng cao",
+      "description": "Tải video MP4 với chất lượng lên đến 1080p, đảm bảo trải nghiệm xem tốt nhất."
+    },
+    "tiktok": {
+      "title": "Hỗ trợ TikTok",
+      "description": "Tải video TikTok không logo, không watermark, chất lượng cao."
+    },
+    "free": {
+      "title": "Hoàn toàn miễn phí",
+      "description": "Sử dụng tất cả tính năng mà không cần trả phí. Không giới hạn số lượng tải xuống."
+    },
+    "platforms": {
+      "title": "Đa nền tảng",
+      "description": "Hỗ trợ nhiều nền tảng: YouTube, TikTok, Facebook, Instagram, Twitter và nhiều nền tảng khác."
+    },
+    "fast": {
+      "title": "Tải nhanh chóng",
+      "description": "Tốc độ tải xuống nhanh chóng, không cần chờ đợi lâu."
+    },
+    "no-reg": {
+      "title": "Không cần đăng ký",
+      "description": "Sử dụng ngay mà không cần đăng ký tài khoản hay cài đặt phần mềm."
+    },
+    "learn_more": "Tìm hiểu thêm"
+  },
+  "how_to_use": {
+    "title": "Cách sử dụng metube.one",
+    "subtitle": "Hướng dẫn sử dụng",
+    "description": "Chỉ với 3 bước đơn giản để tải video từ bất kỳ nền tảng nào.",
+    "step1": {
+      "title": "Dán URL",
+      "description": "Sao chép và dán URL video bạn muốn tải xuống vào ô nhập liệu."
+    },
+    "step2": {
+      "title": "Chọn định dạng",
+      "description": "Chọn định dạng và chất lượng video phù hợp với nhu cầu của bạn."
+    },
+    "step3": {
+      "title": "Tải xuống",
+      "description": "Nhấn nút tải xuống và chờ quá trình hoàn tất."
+    },
+    "go_to_downloader": "Đến ô tải video"
+  },
+  "faq": {
+    "title": "Bạn có thắc mắc?",
+    "subtitle": "Câu hỏi thường gặp",
+    "description": "Tìm câu trả lời cho các câu hỏi phổ biến về metube.one.",
+    "questions": {
+      "0": {
+        "question": "metube.one có miễn phí không?",
+        "answer": "Có, metube.one hoàn toàn miễn phí và không giới hạn số lượng tải xuống."
+      },
+      "1": {
+        "question": "Tôi có thể tải video từ những nền tảng nào?",
+        "answer": "metube.one hỗ trợ nhiều nền tảng phổ biến như YouTube, TikTok, Facebook, Instagram, Twitter và nhiều nền tảng khác.",
+        "answer_intro": "metube.one hỗ trợ các nền tảng phổ biến:"
+      },
+      "2": {
+        "question": "Có giới hạn về chất lượng video không?",
+        "answer": "Không, bạn có thể tải video với chất lượng lên đến 1080p tùy thuộc vào nguồn video."
+      },
+      "3": {
+        "question": "Tôi có cần đăng ký tài khoản không?",
+        "answer": "Không, bạn có thể sử dụng metube.one ngay lập tức mà không cần đăng ký tài khoản."
+      },
+      "4": {
+        "question": "Tôi có thể tải video có bản quyền không?",
+        "answer": "Không. Chúng tôi chỉ hỗ trợ video công khai mà bạn có quyền tải. Xem"
+      }
+    }
+  },
+  "index": {
+    "title": "metube.one - YouTube & Social Video Downloader",
+    "subtitle": "YouTube & Social Video Downloader. Download videos from YouTube, TikTok, Facebook, Instagram, Twitter and more!",
+    "copyright_warning": "CHÚNG TÔI KHÔNG HỖ TRỢ TẢI VIDEO CÓ BẢN QUYỀN!",
+    "input_placeholder": "Dán link YouTube, TikTok, Facebook...",
+    "input_button": "Lấy video",
+    "guide_title": "Hướng dẫn:",
+    "guide_desc": "Dán link video vào ô trên, chọn định dạng và nhấn Get Video để tải về. Hỗ trợ MP4, MP3, nhiều nền tảng.",
+    "desc_title": "metube.one - YouTube & Social Video Downloader",
+    "desc": "metube.one là công cụ tải video miễn phí từ YouTube, TikTok, Facebook, Instagram, Twitter và nhiều nền tảng khác. Dán link video vào ô trên, chọn định dạng và nhấn Get Video để tải về nhanh chóng, dễ dàng. metube.one không lưu trữ bất kỳ nội dung nào trên server, chỉ hỗ trợ tải video công khai.",
+    "formats": {
+      "mp4_1080p": "MP4 - 1080p - 56.3MB",
+      "mp4_720p": "MP4 - 720p - 38MB",
+      "mp3_128": "MP3 - 128kbps - 5MB"
+    },
+    "video_info": {
+      "platform": "YouTube",
+      "duration": "3:22",
+      "title": "PUBG Theme Song (ZScratch Trap Remix)"
+    }
+  },
+  "loading": "Đang tải...",
+  "download": "Tải xuống",
+  "downloads": {
+    "title": "Danh sách tải",
+    "refresh": "Làm mới",
+    "clear_all": "Xóa tất cả",
+    "clear_confirm": "Xóa toàn bộ lịch sử tải và đặt lại phiên?",
+    "remove": "Xóa",
+    "failed": "Tải thất bại",
+    "quick": "Tải nhanh (link trực tiếp)",
+    "server_title": "Tải qua server — chuyển đổi & lưu",
+    "server_button": "Thêm vào hàng đợi",
+    "queue_failed": "Không thể thêm hàng đợi. Kiểm tra API đã chạy chưa?",
+    "load_more": "Tải thêm"
+  },
+  "add_another_format": "Thêm định dạng khác",
+  "resources": {
+    "title": "Nền tảng được hỗ trợ",
+    "subtitle": "Nhấn vào nền tảng để mở trang tải video tương ứng."
+  },
+  "legal": {
+    "terms": "Điều khoản dịch vụ",
+    "policy": "Chính sách bảo mật",
+    "and": "và",
+    "disclaimer": "Khi sử dụng dịch vụ, bạn đồng ý với",
+    "terms_short": "Điều khoản",
+    "policy_short": "Chính sách"
+  },
+  "footer": {
+    "rights": "Bảo lưu mọi quyền.",
+    "contact": "Liên hệ"
+  },
+  "formats": {
+    "tab_video": "Video",
+    "tab_video_only": "Chỉ video",
+    "tab_audio_only": "Chỉ âm thanh"
+  },
+  "error": {
+    "empty_url": "Vui lòng nhập URL.",
+    "invalid_url": "URL không hợp lệ. Vui lòng nhập đúng định dạng.",
+    "invalid_platform_url": "URL không khớp với nền tảng hiện tại.",
+    "fetch_failed": "Không lấy được thông tin video. Kiểm tra URL và thử lại.",
+    "page_not_found": "Không tìm thấy trang",
+    "back_home": "Về trang chủ"
+  },
+  "menu": {
+    "youtube": "YouTube",
+    "tiktok": "TikTok",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter",
+    "more": "Khác..."
+  },
+  "youtube": {
+    "input_placeholder": "Paste YouTube or youtu.be link here",
+    "subtitle": "YouTube Video Downloader – Tải video YouTube chất lượng cao, nhanh chóng, miễn phí!",
+    "copyright_warning": "KHÔNG HỖ TRỢ TẢI VIDEO BẢN QUYỀN!",
+    "guide": "Dán link video YouTube vào ô trên, chọn định dạng và nhấn Get Video để tải về. Hỗ trợ tải MP4, MP3, chất lượng 1080p, 720p...",
+    "desc_title": "Tải video YouTube miễn phí với metube.one",
+    "desc": "metube.one giúp bạn tải video YouTube nhanh chóng, không cần cài đặt phần mềm. Hỗ trợ mọi thiết bị, không giới hạn số lượng, hoàn toàn miễn phí. Chỉ tải video công khai, không lưu trữ nội dung trên server.",
+    "formats": {
+      "mp4-1080p": "MP4 - 1080p - 56.3MB",
+      "mp4-720p": "MP4 - 720p - 38MB",
+      "mp3-128": "MP3 - 128kbps - 5MB"
+    },
+    "video_info": {
+      "platform": "YouTube",
+      "duration": "3:22",
+      "title": "PUBG Theme Song (ZScratch Trap Remix)"
+    }
+  },
+  "tiktok": {
+    "input_placeholder": "Paste TikTok video link here",
+    "subtitle": "TikTok Video Downloader – Tải video TikTok không logo, chất lượng cao, miễn phí!",
+    "copyright_warning": "KHÔNG HỖ TRỢ TẢI VIDEO BẢN QUYỀN!",
+    "guide": "Dán link video TikTok vào ô trên, chọn định dạng và nhấn Get Video để tải về. Hỗ trợ tải MP4, không logo, chất lượng HD...",
+    "desc_title": "Tải video TikTok miễn phí với metube.one",
+    "desc": "metube.one giúp bạn tải video TikTok không logo, nhanh chóng, không cần cài đặt phần mềm. Hỗ trợ mọi thiết bị, không giới hạn số lượng, hoàn toàn miễn phí. Chỉ tải video công khai, không lưu trữ nội dung trên server.",
+    "formats": {
+      "mp4-hd": "MP4 - HD - 20MB",
+      "mp4-sd": "MP4 - SD - 7MB"
+    },
+    "video_info": {
+      "platform": "TikTok",
+      "duration": "0:59",
+      "title": "TikTok Sample Video"
+    }
+  },
+  "twitter": {
+    "input_placeholder": "Paste Twitter / X video link here",
+    "subtitle": "Twitter Video Downloader – Tải video Twitter chất lượng cao, nhanh chóng, miễn phí!",
+    "copyright_warning": "KHÔNG HỖ TRỢ TẢI VIDEO BẢN QUYỀN!",
+    "guide": "Dán link video Twitter vào ô trên, chọn định dạng và nhấn Get Video để tải về. Hỗ trợ tải MP4, chất lượng HD...",
+    "desc_title": "Tải video Twitter miễn phí với metube.one",
+    "desc": "metube.one giúp bạn tải video Twitter nhanh chóng, không cần cài đặt phần mềm. Hỗ trợ mọi thiết bị, không giới hạn số lượng, hoàn toàn miễn phí. Chỉ tải video công khai, không lưu trữ nội dung trên server.",
+    "formats": {
+      "mp4-hd": "MP4 - HD - 25MB",
+      "mp4-sd": "MP4 - SD - 8MB"
+    },
+    "video_info": {
+      "platform": "Twitter",
+      "duration": "0:45",
+      "title": "Twitter Sample Video"
+    }
+  },
+  "facebook": {
+    "input_placeholder": "Paste Facebook video link here",
+    "subtitle": "Facebook Video Downloader – Tải video Facebook chất lượng cao, nhanh chóng, miễn phí!",
+    "copyright_warning": "KHÔNG HỖ TRỢ TẢI VIDEO BẢN QUYỀN!",
+    "guide": "Dán link video Facebook vào ô trên, chọn định dạng và nhấn Get Video để tải về. Hỗ trợ tải MP4, chất lượng HD, SD...",
+    "desc_title": "Tải video Facebook miễn phí với metube.one",
+    "desc": "metube.one giúp bạn tải video Facebook nhanh chóng, không cần cài đặt phần mềm. Hỗ trợ mọi thiết bị, không giới hạn số lượng, hoàn toàn miễn phí. Chỉ tải video công khai, không lưu trữ nội dung trên server.",
+    "formats": {
+      "mp4-hd": "MP4 - HD - 40MB",
+      "mp4-sd": "MP4 - SD - 15MB"
+    },
+    "video_info": {
+      "platform": "Facebook",
+      "duration": "2:10",
+      "title": "Facebook Sample Video"
+    }
+  },
+  "instagram": {
+    "input_placeholder": "Paste Instagram video link here",
+    "subtitle": "Instagram Video Downloader – Tải video Instagram chất lượng cao, nhanh chóng, miễn phí!",
+    "copyright_warning": "KHÔNG HỖ TRỢ TẢI VIDEO BẢN QUYỀN!",
+    "guide": "Dán link video Instagram vào ô trên, chọn định dạng và nhấn Get Video để tải về. Hỗ trợ tải MP4, chất lượng HD, SD...",
+    "desc_title": "Tải video Instagram miễn phí với metube.one",
+    "desc": "metube.one giúp bạn tải video Instagram nhanh chóng, không cần cài đặt phần mềm. Hỗ trợ mọi thiết bị, không giới hạn số lượng, hoàn toàn miễn phí. Chỉ tải video công khai, không lưu trữ nội dung trên server.",
+    "formats": {
+      "mp4-hd": "MP4 - HD - 35MB",
+      "mp4-sd": "MP4 - SD - 12MB"
+    },
+    "video_info": {
+      "platform": "Instagram",
+      "duration": "1:30",
+      "title": "Instagram Sample Video"
+    }
+  },
+  "guide": "Guide:",
+  "meta": {
+    "site": {
+      "title": "metube.one - YouTube & Social Video Downloader",
+      "description": "metube.one là công cụ tải video miễn phí từ YouTube, TikTok, Facebook, Instagram, Twitter và nhiều nền tảng khác. Dán link video vào ô trên, chọn định dạng và nhấn Get Video để tải về nhanh chóng, dễ dàng. metube.one không lưu trữ bất kỳ nội dung nào trên server, chỉ hỗ trợ tải video công khai."
+    },
+    "youtube": {
+      "title": "Tải video YouTube miễn phí với metube.one",
+      "description": "metube.one giúp bạn tải video YouTube nhanh chóng, không cần cài đặt phần mềm. Hỗ trợ mọi thiết bị, không giới hạn số lượng, hoàn toàn miễn phí. Chỉ tải video công khai, không lưu trữ nội dung trên server."
+    },
+    "tiktok": {
+      "title": "Tải video TikTok miễn phí với metube.one",
+      "description": "metube.one giúp bạn tải video TikTok không logo, nhanh chóng, không cần cài đặt phần mềm. Hỗ trợ mọi thiết bị, không giới hạn số lượng, hoàn toàn miễn phí. Chỉ tải video công khai, không lưu trữ nội dung trên server."
+    },
+    "facebook": {
+      "title": "Tải video Facebook miễn phí với metube.one",
+      "description": "metube.one giúp bạn tải video Facebook nhanh chóng, không cần cài đặt phần mềm. Hỗ trợ mọi thiết bị, không giới hạn số lượng, hoàn toàn miễn phí. Chỉ tải video công khai, không lưu trữ nội dung trên server."
+    },
+    "instagram": {
+      "title": "Tải video Instagram miễn phí với metube.one",
+      "description": "metube.one giúp bạn tải video Instagram nhanh chóng, không cần cài đặt phần mềm. Hỗ trợ mọi thiết bị, không giới hạn số lượng, hoàn toàn miễn phí. Chỉ tải video công khai, không lưu trữ nội dung trên server."
+    },
+    "twitter": {
+      "title": "Tải video Twitter miễn phí với metube.one",
+      "description": "metube.one giúp bạn tải video Twitter nhanh chóng, không cần cài đặt phần mềm. Hỗ trợ mọi thiết bị, không giới hạn số lượng, hoàn toàn miễn phí. Chỉ tải video công khai, không lưu trữ nội dung trên server."
+    }
+  }
+}

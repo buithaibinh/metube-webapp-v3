@@ -1,0 +1,35 @@
+:root {
+  --color-primary: #6c63ff;
+  --color-primary-dark: #8b85ff;
+  --color-primary-light: #ede7f6;
+}
+[data-theme="purple"] {
+  --color-primary: #6c63ff;
+  --color-primary-dark: #8b85ff;
+  --color-primary-light: #ede7f6;
+}
+[data-theme="orange"] {
+  --color-primary: #ff9800;
+  --color-primary-dark: #ffb300;
+  --color-primary-light: #ffe0b2;
+}
+/* Xanh ngọc (Teal) */
+[data-theme="teal"] {
+  --color-primary: #14b8a6;
+  --color-primary-dark: #0f766e;
+  --color-primary-light: #99f6e4;
+}
+
+/* Xanh tím than (Indigo) */
+[data-theme="indigo"] {
+  --color-primary: #6366f1;
+  --color-primary-dark: #3730a3;
+  --color-primary-light: #c7d2fe;
+}
+
+/* Cam hồng (Coral) */
+[data-theme="coral"] {
+  --color-primary: #ff6f61;
+  --color-primary-dark: #c43e2f;
+  --color-primary-light: #ffd6cf;
+}

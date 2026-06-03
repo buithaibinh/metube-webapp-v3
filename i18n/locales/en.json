@@ -1,0 +1,265 @@
+{
+  "welcome": "Welcome to MeTube",
+  "features": {
+    "title": "Why Choose metube.one?",
+    "subtitle": "Key Features",
+    "description": "metube.one provides powerful features to download videos from multiple platforms.",
+    "mp4": {
+      "title": "High Quality MP4 Downloads",
+      "description": "Download MP4 videos up to 1080p quality, ensuring the best viewing experience."
+    },
+    "tiktok": {
+      "title": "TikTok Support",
+      "description": "Download TikTok videos without logo, watermark, in high quality."
+    },
+    "free": {
+      "title": "Completely Free",
+      "description": "Use all features without paying. No download limits."
+    },
+    "platforms": {
+      "title": "Multiple Platforms",
+      "description": "Support for various platforms: YouTube, TikTok, Facebook, Instagram, Twitter and more."
+    },
+    "fast": {
+      "title": "Fast Downloads",
+      "description": "Quick download speeds, no long waiting times."
+    },
+    "no-reg": {
+      "title": "No Registration",
+      "description": "Use instantly without registering an account or installing software."
+    },
+    "learn_more": "Learn More"
+  },
+  "how_to_use": {
+    "title": "How to Use metube.one",
+    "subtitle": "How to Use",
+    "description": "Just 3 simple steps to download videos from any platform.",
+    "step1": {
+      "title": "Paste URL",
+      "description": "Copy and paste the URL of the video you want to download into the input box."
+    },
+    "step2": {
+      "title": "Choose Format",
+      "description": "Select the video format and quality that suits your needs."
+    },
+    "step3": {
+      "title": "Download",
+      "description": "Click the download button and wait for the process to complete."
+    },
+    "go_to_downloader": "Go to downloader"
+  },
+  "faq": {
+    "title": "Got Questions?",
+    "subtitle": "Frequently Asked Questions",
+    "description": "Find answers to common questions about metube.one.",
+    "questions": {
+      "0": {
+        "question": "Is metube.one free?",
+        "answer": "Yes, metube.one is completely free with no download limits."
+      },
+      "1": {
+        "question": "Which platforms can I download from?",
+        "answer_intro": "metube.one supports popular platforms:"
+      },
+      "2": {
+        "question": "Are there any quality limitations?",
+        "answer": "No, you can download videos up to 1080p quality depending on the source video."
+      },
+      "3": {
+        "question": "Do I need to register an account?",
+        "answer": "No, you can use metube.one instantly without registering an account."
+      },
+      "4": {
+        "question": "Can I download copyrighted videos?",
+        "answer": "No. We only support public videos you have the right to download. See our"
+      }
+    }
+  },
+  "index": {
+    "title": "metube.one - YouTube & Social Video Downloader",
+    "subtitle": "YouTube & Social Video Downloader. Download videos from YouTube, TikTok, Facebook, Instagram, Twitter and more!",
+    "copyright_warning": "WE DO NOT ALLOW/SUPPORT THE DOWNLOAD OF COPYRIGHTED MATERIAL!",
+    "input_placeholder": "Paste YouTube, TikTok, Facebook... URL",
+    "input_button": "Get Video",
+    "guide_title": "Guide:",
+    "guide_desc": "Paste the video link above, select the format and click Get Video to download. Supports MP4, MP3, multiple platforms.",
+    "desc_title": "metube.one - YouTube & Social Video Downloader",
+    "desc": "metube.one is a free tool to download videos from YouTube, TikTok, Facebook, Instagram, Twitter and many other platforms. Paste the video link above, select the format and click Get Video to download quickly and easily. metube.one does not store any content on the server, only supports downloading public videos.",
+    "formats": {
+      "mp4_1080p": "MP4 - 1080p - 56.3MB",
+      "mp4_720p": "MP4 - 720p - 38MB",
+      "mp3_128": "MP3 - 128kbps - 5MB"
+    },
+    "video_info": {
+      "platform": "YouTube",
+      "duration": "3:22",
+      "title": "PUBG Theme Song (ZScratch Trap Remix)"
+    }
+  },
+  "loading": "Loading...",
+  "download": "Download",
+  "downloads": {
+    "title": "Your downloads",
+    "refresh": "Refresh",
+    "clear_all": "Clear all",
+    "clear_confirm": "Clear all downloads and reset session?",
+    "remove": "Remove",
+    "failed": "Download failed",
+    "quick": "Quick download (direct link)",
+    "server_title": "Server download — convert & store",
+    "server_button": "Queue download",
+    "queue_failed": "Could not queue download. Please try again later.",
+    "load_more": "Load more"
+  },
+  "add_another_format": "Add another format",
+  "resources": {
+    "title": "Supported platforms",
+    "subtitle": "Click a platform to open its dedicated downloader page."
+  },
+  "legal": {
+    "terms": "Terms of Service",
+    "policy": "Privacy Policy",
+    "terms_short": "Terms",
+    "policy_short": "Policy",
+    "and": "and",
+    "disclaimer": "By using our service you accept our"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "contact": "Contact"
+  },
+  "formats": {
+    "tab_video": "Video",
+    "tab_video_only": "Video only",
+    "tab_audio_only": "Audio only"
+  },
+  "error": {
+    "empty_url": "Please enter a URL.",
+    "invalid_url": "Invalid URL. Please enter a valid format.",
+    "invalid_platform_url": "This URL does not match the current platform.",
+    "fetch_failed": "Could not fetch video info. Check the URL and try again.",
+    "page_not_found": "Page not found",
+    "back_home": "Back to home"
+  },
+  "menu": {
+    "youtube": "YouTube",
+    "tiktok": "TikTok",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter",
+    "more": "More..."
+  },
+  "youtube": {
+    "input_placeholder": "Paste YouTube or youtu.be link here",
+    "subtitle": "YouTube Video Downloader – Download high quality, fast, free YouTube videos!",
+    "copyright_warning": "WE DO NOT SUPPORT DOWNLOADING COPYRIGHTED VIDEOS!",
+    "guide": "Paste the YouTube video link above, select the format and click Get Video to download. Supports MP4, MP3, 1080p, 720p quality...",
+    "desc_title": "Download YouTube videos for free with metube.one",
+    "desc": "metube.one helps you download YouTube videos quickly, no software installation required. Supports all devices, unlimited downloads, completely free. Only public videos, no server storage.",
+    "formats": {
+      "mp4-1080p": "MP4 - 1080p - 56.3MB",
+      "mp4-720p": "MP4 - 720p - 38MB",
+      "mp3-128": "MP3 - 128kbps - 5MB"
+    },
+    "video_info": {
+      "platform": "YouTube",
+      "duration": "3:22",
+      "title": "PUBG Theme Song (ZScratch Trap Remix)"
+    }
+  },
+  "tiktok": {
+    "input_placeholder": "Paste TikTok video link here",
+    "subtitle": "TikTok Video Downloader – Download TikTok videos without watermark, high quality, free!",
+    "copyright_warning": "WE DO NOT SUPPORT DOWNLOADING COPYRIGHTED VIDEOS!",
+    "guide": "Paste the TikTok video link above, select the format and click Get Video to download. Supports MP4, no watermark, HD quality...",
+    "desc_title": "Download TikTok videos for free with metube.one",
+    "desc": "metube.one helps you download TikTok videos without watermark, quickly, no software installation required. Supports all devices, unlimited downloads, completely free. Only public videos, no server storage.",
+    "formats": {
+      "mp4-hd": "MP4 - HD - 20MB",
+      "mp4-sd": "MP4 - SD - 7MB"
+    },
+    "video_info": {
+      "platform": "TikTok",
+      "duration": "0:59",
+      "title": "TikTok Sample Video"
+    }
+  },
+  "twitter": {
+    "input_placeholder": "Paste Twitter / X video link here",
+    "subtitle": "Twitter Video Downloader – Download high quality, fast, free Twitter videos!",
+    "copyright_warning": "WE DO NOT SUPPORT DOWNLOADING COPYRIGHTED VIDEOS!",
+    "guide": "Paste the Twitter video link above, select the format and click Get Video to download. Supports MP4, HD quality...",
+    "desc_title": "Download Twitter videos for free with metube.one",
+    "desc": "metube.one helps you download Twitter videos quickly, no software installation required. Supports all devices, unlimited downloads, completely free. Only public videos, no server storage.",
+    "formats": {
+      "mp4-hd": "MP4 - HD - 25MB",
+      "mp4-sd": "MP4 - SD - 8MB"
+    },
+    "video_info": {
+      "platform": "Twitter",
+      "duration": "0:45",
+      "title": "Twitter Sample Video"
+    }
+  },
+  "facebook": {
+    "input_placeholder": "Paste Facebook video link here",
+    "subtitle": "Facebook Video Downloader – Download high quality, fast, free Facebook videos!",
+    "copyright_warning": "WE DO NOT SUPPORT DOWNLOADING COPYRIGHTED VIDEOS!",
+    "guide": "Paste the Facebook video link above, select the format and click Get Video to download. Supports MP4, HD, SD quality...",
+    "desc_title": "Download Facebook videos for free with metube.one",
+    "desc": "metube.one helps you download Facebook videos quickly, no software installation required. Supports all devices, unlimited downloads, completely free. Only public videos, no server storage.",
+    "formats": {
+      "mp4-hd": "MP4 - HD - 40MB",
+      "mp4-sd": "MP4 - SD - 15MB"
+    },
+    "video_info": {
+      "platform": "Facebook",
+      "duration": "2:10",
+      "title": "Facebook Sample Video"
+    }
+  },
+  "instagram": {
+    "input_placeholder": "Paste Instagram video link here",
+    "subtitle": "Instagram Video Downloader – Download high quality, fast, free Instagram videos!",
+    "copyright_warning": "WE DO NOT SUPPORT DOWNLOADING COPYRIGHTED VIDEOS!",
+    "guide": "Paste the Instagram video link above, select the format and click Get Video to download. Supports MP4, HD, SD quality...",
+    "desc_title": "Download Instagram videos for free with metube.one",
+    "desc": "metube.one helps you download Instagram videos quickly, no software installation required. Supports all devices, unlimited downloads, completely free. Only public videos, no server storage.",
+    "formats": {
+      "mp4-hd": "MP4 - HD - 35MB",
+      "mp4-sd": "MP4 - SD - 12MB"
+    },
+    "video_info": {
+      "platform": "Instagram",
+      "duration": "1:30",
+      "title": "Instagram Sample Video"
+    }
+  },
+  "guide": "Guide:",
+  "meta": {
+    "site": {
+      "title": "metube.one - YouTube & Social Video Downloader",
+      "description": "metube.one is a free tool to download videos from YouTube, TikTok, Facebook, Instagram, Twitter and many other platforms. Paste the video link above, select the format and click Get Video to download quickly and easily. metube.one does not store any content on the server, only supports downloading public videos."
+    },
+    "youtube": {
+      "title": "Download YouTube videos for free with metube.one",
+      "description": "metube.one helps you download YouTube videos quickly, no software installation required. Supports all devices, unlimited downloads, completely free. Only public videos, no server storage."
+    },
+    "tiktok": {
+      "title": "Download TikTok videos for free with metube.one",
+      "description": "metube.one helps you download TikTok videos without watermark, quickly, no software installation required. Supports all devices, unlimited downloads, completely free. Only public videos, no server storage."
+    },
+    "facebook": {
+      "title": "Download Facebook videos for free with metube.one",
+      "description": "metube.one helps you download Facebook videos quickly, no software installation required. Supports all devices, unlimited downloads, completely free. Only public videos, no server storage."
+    },
+    "instagram": {
+      "title": "Download Instagram videos for free with metube.one",
+      "description": "metube.one helps you download Instagram videos quickly, no software installation required. Supports all devices, unlimited downloads, completely free. Only public videos, no server storage."
+    },
+    "twitter": {
+      "title": "Download Twitter videos for free with metube.one",
+      "description": "metube.one helps you download Twitter videos quickly, no software installation required. Supports all devices, unlimited downloads, completely free. Only public videos, no server storage."
+    }
+  }
+}
