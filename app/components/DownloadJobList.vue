@@ -94,6 +94,8 @@
 </template>
 
 <script setup lang="ts">
+import { trackDownloadEvent } from '~/composables/useDownloadAnalytics'
+
 const store = useDownloadsStore()
 const authStore = useAuthStore()
 const { t: $t } = useI18n()

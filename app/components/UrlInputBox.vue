@@ -118,10 +118,11 @@
         class="relative flex-shrink-0 w-full md:w-80 aspect-video bg-gray-200 dark:bg-zinc-800 flex items-center justify-center overflow-hidden rounded-xl shadow-lg md:rounded-xl md:shadow-lg transition-transform duration-200 hover:scale-105 group"
       >
         <img
+          v-if="videoInfo.thumbnail"
           :src="videoInfo.thumbnail"
           :alt="decodeHtmlEntities(videoInfo.title)"
           class="w-full h-full object-cover"
-        />
+        >
         <a
           v-if="videoInfo.source_url"
           :href="videoInfo.source_url"
@@ -305,6 +306,7 @@
 <script setup lang="ts">
 import { ref, watch, onMounted, computed } from 'vue';
 import type { VideoFormat, VideoInfo } from '~/types/api';
+import { trackDownloadEvent } from '~/composables/useDownloadAnalytics';
 
 const props = defineProps({
   placeholder: { type: String, default: 'Paste video URL...' },
@@ -359,9 +361,10 @@ const formatOptions = computed(() => {
   return [];
 });
 
-function formatFileSize(size: string): string {
-  const bytes = parseInt(size);
-  if (isNaN(bytes)) return size;
+function formatFileSize(size: string | number | null | undefined): string {
+  if (size == null || size === '') return '';
+  const bytes = typeof size === 'number' ? size : Number.parseInt(String(size), 10);
+  if (Number.isNaN(bytes)) return String(size);
 
   const units = ['B', 'KB', 'MB', 'GB', 'TB'];
   let value = bytes;

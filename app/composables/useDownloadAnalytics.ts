@@ -1,4 +1,4 @@
-/** GA4 events — same category/params as v2 (`useTrackEvent('Download', …)`). */
+/** GA4 download events — same shape as v2 `useTrackEvent('Download', …)`. */
 export function trackDownloadEvent(action: string, label?: string) {
   if (import.meta.server) return
 
@@ -7,4 +7,8 @@ export function trackDownloadEvent(action: string, label?: string) {
     action,
     ...(label ? { label } : {}),
   })
+}
+
+export function useDownloadAnalytics() {
+  return { trackDownloadEvent }
 }
