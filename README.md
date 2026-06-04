@@ -31,6 +31,12 @@ Required for SEO in production:
 NUXT_PUBLIC_SITE_URL=https://www.metube.one
 ```
 
+Google Analytics (v2 property, production only by default):
+
+```env
+NUXT_PUBLIC_GTAG_ID=G-SXH8ELV4BT
+```
+
 ## Deploy (AWS Amplify)
 
 1. Create a **new** Amplify app → connect **this repository** (repo root = this folder).

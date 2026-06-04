@@ -110,5 +110,6 @@ async function onRefresh() {
 async function onClearAll() {
   if (!confirm($t('downloads.clear_confirm'))) return
   await store.clearAll()
+  trackDownloadEvent('clearAll')
 }
 </script>

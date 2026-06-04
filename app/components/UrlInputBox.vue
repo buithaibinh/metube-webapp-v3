@@ -410,9 +410,11 @@ async function getVideoInfoAuto(url: string) {
   try {
     videoInfo.value = await downloaderApi.fetchVideoInfo(url);
     selectedFormat.value = formatOptions.value[0] ?? null;
+    trackDownloadEvent('info', videoInfo.value.id);
   } catch {
     error.value = 'error.fetch_failed';
     videoInfo.value = null;
+    trackDownloadEvent('error', 'error.fetch_failed');
   } finally {
     loading.value = false;
     showVideoInfo.value = !!videoInfo.value;
@@ -430,8 +432,10 @@ async function onServerDownload() {
       start_time: trimStart.value || undefined,
       end_time: trimEnd.value || undefined,
     });
+    trackDownloadEvent('download', legacy.videoId);
   } catch {
     error.value = 'downloads.queue_failed';
+    trackDownloadEvent('error', 'downloads.queue_failed');
   } finally {
     serverLoading.value = false;
   }

@@ -21,6 +21,7 @@
     "@pinia/nuxt": "^0.11.0",
     "aws-amplify": "^5.3.33",
     "nuxt": "^3.17.4",
+    "nuxt-gtag": "^3.0.3",
     "pinia": "^3.0.2"
   },
   "devDependencies": {

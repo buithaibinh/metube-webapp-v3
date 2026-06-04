@@ -20,6 +20,7 @@ artifacts: .output/public
 | Variable | Example |
 |----------|---------|
 | `NUXT_PUBLIC_SITE_URL` | `https://www.metube.one` |
+| `NUXT_PUBLIC_GTAG_ID` | `G-SXH8ELV4BT` (optional; default matches v2) |
 
 Optional overrides: see `.env.example` (yt-dlp API, Cognito, AppSync keys).
 

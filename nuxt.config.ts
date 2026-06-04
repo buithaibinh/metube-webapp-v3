@@ -21,7 +21,13 @@ export default defineNuxtConfig({
     '@nuxt/icon',
     '@nuxtjs/i18n',
     '@pinia/nuxt',
+    'nuxt-gtag',
   ],
+
+  gtag: {
+    id: process.env.NUXT_PUBLIC_GTAG_ID || 'G-SXH8ELV4BT',
+    enabled: process.env.NODE_ENV === 'production',
+  },
 
   css: ['~/assets/css/main.css', '~/assets/css/theme.css', '~/assets/css/content.css'],
 
